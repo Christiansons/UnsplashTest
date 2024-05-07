@@ -1,0 +1,6 @@
+@UnsplashTest_HostAddress = http://localhost:5274
+
+GET {{UnsplashTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
